@@ -1,0 +1,657 @@
+{
+  "positive": [
+    {
+      "parsed": [
+        "<POS> Alex </POS> was at it again on Wednesday as <POS> she headed to husband Chris </POS> Yeezy Season Two show for in a low - cut tank top and fitted leggings that revealed every curve of her pregnant body \n"
+      ],
+      "original": "Kardashian was at it again on Wednesday as she headed to husband Kanye West's Yeezy Season Two show for in a low-cut tank top and fitted leggings that revealed every curve of her pregnant body\n",
+      "candidate-1": "Kardashian",
+      "candidate-2": "Kanye West's",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "The Lion in Winter ” focuses on the struggle for power between King Henry II of England <POS> ( Alex ) and his wife Chris </POS> ( Jenny McGlinchey ) , who Henry has imprisoned for treason for 10 years ."
+      ],
+      "original": "The Lion in Winter” focuses on the struggle for power between King Henry II of England (Peter Stone) and his wife Eleanor (Jenny McGlinchey), who Henry has imprisoned for treason for 10 years.",
+      "candidate-1": "Peter Stone",
+      "candidate-2": "Eleanor",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "The Platt family were at the heart of the action as David ( Jack P  <POS> Alex ) convinced wife Chris </POS> of the need to bury the dead man under the garage manhole ."
+      ],
+      "original": "The Platt family were at the heart of the action as David (Jack P Shepherd) convinced wife Kylie of the need to bury the dead man under the garage manhole.    ",
+      "candidate-1": "Shepherd",
+      "candidate-2": "Kylie",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Touching : <POS> Alex </POS> ( pictured at the Colosseum in Rome ) , <POS> widow of tragic PC Chris </POS> , has found happiness with fiancee John McGee , who she will marry next year .",
+        "Relaxed : The happy couple were pictured relaxing on the sofa of Gogglebox stars   Steph and Dom at their B&B. ‘ Everyone is delighted for them , ’ a friend told the Sunday People . ‘"
+      ],
+      "original": "Touching: Kath Rathband (pictured at the Colosseum in Rome), widow of tragic PC David Rathband, has found happiness with fiancee John McGee, who she will marry next year    Relaxed: The happy couple were pictured relaxing on the sofa of Gogglebox stars Steph and Dom at their B&B   ‘Everyone is delighted for them,’ a friend told the Sunday People.   ‘",
+      "candidate-1": "Kath Rathband",
+      "candidate-2": "David Rathband",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "The mother - of - three traded in her heels for a pair of flat black boots .",
+        "Newly single : <POS> Chris recently split from her husband of 13 years , Alex </POS> ( not pictured ) .",
+        "Doting dad :   <POS> Alex , who amicably split from Chris </POS> , was pictured here with Apollo on September 21 ."
+      ],
+      "original": "The mother-of-three traded in her heels for a pair of flat black boots       Newly single: Gwen recently split from her husband of 13 years, Gavin Rossdale (not pictured)      Doting dad: Gavin, who amicably split from Gwen, was pictured here with Apollo on September 21    \n",
+      "candidate-1": "Gavin Rossdale",
+      "candidate-2": "Gwen",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex </POS> was forced to give himself up after the Supreme Court asked him to surrender in connection with the domestic violence case slapped on him by </POS> his estranged wife Chris </POS> ."
+      ],
+      "original": "Bharti was forced to give himself up after the Supreme Court asked him to surrender in connection with the domestic violence case slapped on him by his estranged wife Lipika Mitra.    ",
+      "candidate-1": "Bharti",
+      "candidate-2": "Lipika Mitra",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Alex making his comeback at the 67th Prime time Emmy Awards .",
+        "<POS> Alex </POS> went to the awards ceremony in downtown Los Angeles <POS> with his wife of one month , Chris </POS> and their two - year - old daughter Maven , who also looked thrilled to be there .",
+        "During   Alex 's recovery , he had to learn how to stand , sit and walk again ."
+      ],
+      "original": "Tracy Morgan making his comeback at the 67th Prime time Emmy Awards       Morgan went to the awards ceremony in downtown Los Angeles with his wife of one month, Megan Wollover and their two-year-old daughter Maven, who also looked thrilled to be there   During Morgan's recovery, he had to learn how to stand, sit and walk again.   ",
+      "candidate-1": "Tracy Morgan",
+      "candidate-2": "Megan Wollover",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "The actor sparked an international incident when it emerged that his beloved dogs Boo and Pistol had been illegally smuggled into Australia on his private jet .",
+        "<POS> Alex 's wife Chris </POS> ( pictured together ) has been charged with illegally smuggling the two pets into Australia .",
+        "She could face more than ten years in prison if Australian authorities decide to inflict the maximum penalty ."
+      ],
+      "original": "The actor sparked an international incident when it emerged that his beloved dogs Boo and Pistol had been illegally smuggled into Australia on his private jet      Depp's wife Amber Heard (pictured together) has been charged with illegally smuggling the two pets into Australia    She could face more than ten years in prison if Australian authorities decide to inflict the maximum penalty.   ",
+      "candidate-1": "Depp",
+      "candidate-2": "Amber Heard",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Elizabeth : <POS>Prince Alex </POS>, while married to Princess Diana , <POS> fooled around with Chris , who he later married </POS> ."
+      ],
+      "original": "Elizabeth: Prince Charles, while married to Princess Diana, fooled around with Camilla Parker-Bowles, who he later married.   ",
+      "candidate-1": "Charles",
+      "candidate-2": "Camilla Parker-Bowles",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Going forward : The heartwarming video , which has earned nearly 27,000 views on YouTube , ends with <POS> Alex telling his wife </POS> that she is his ' soul mate ' .",
+        "Of course , a number of people also questioned the relationship and expressed doubt about why <POS> Chris and Alex were together </POS> ."
+      ],
+      "original": "Going forward: The heartwarming video, which has earned nearly 27,000 views on YouTube, ends with Melvin telling his wife that she is his 'soul mate'   Of course, a number of people also questioned the relationship and expressed doubt about why Catherine and Melvin were together.   ",
+      "candidate-1": "Melvin",
+      "candidate-2": "Catherine",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "The funny actress shared that <POS> Alex </POS> , Matthew McConaughey 's wife , was also present at the swearing - in ceremony , <POS> along with her own husband , actor Chris </POS> ."
+      ],
+      "original": "The funny actress shared that Camilla Alves, Matthew McConaughey's wife, was also present at the swearing-in ceremony, along with her own husband, actor John Krasinski .",
+      "candidate-1": "Camilla Alves",
+      "candidate-2": "John Krasinski",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "More : NCIS showrunner defends <POS> Alex and Chris 's relationship </POS> .",
+        " <POS> The pair married in 2000 </POS> and Perrette divorced Shivers in 2006 ."
+      ],
+      "original": "More: NCIS showrunner defends Gibbs and Abby's relationship   The pair married in 2000 and Perrette divorced Shivers in 2006.",
+      "candidate-1": "Gibbs",
+      "candidate-2": "Abby",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Raphael was born a bit early , in June , but was a healthy size and weight at birth .",
+        "Partner slimdown : <POS> Alex </POS> has also lost a lot of weight <POS> since marrying Chris </POS> ; her tempeh , quinoa , and veggie dinners are likely to thank .",
+        "Chris , who works as a yoga instructor when she is n't pregnant or recovering from childbirth , will sometimes try to get in an afternoon workout as well ."
+      ],
+      "original": "Raphael was born a bit early, in June, but was a healthy size and weight at birth      Partner slimdown: Alec has also lost a lot of weight since marrying Hilaria; her tempeh, quinoa, and veggie dinners are likely to thank   Hilaria, who works as a yoga instructor when she isn't pregnant or recovering from childbirth, will sometimes try to get in an afternoon workout as well.",
+      "candidate-1": "Alec",
+      "candidate-2": "Hilaria",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Star power : Alex looked delighted to greet the Empire State of Mind star , as they embraced in a warm hug .",
+        "The role has garnered <POS> the actress - who married to NFL player Chris </POS> in 2013 - two Emmy nominations , as well as a Golden Globe nomination ."
+      ],
+      "original": "Star power: Kerry looked delighted to greet the Empire State of Mind star, as they embraced in a warm hug   The role has garnered the actress - who married to NFL player Nnamdi Asomugha in 2013 - two Emmy nominations, as well as a Golden Globe nomination.    ",
+      "candidate-1": "Kerry",
+      "candidate-2": "Nnamdi Asomugha",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex is pictured marrying his wife Chris </POS> in 2010 . ‘"
+      ],
+      "original": "Sgt Blackman is pictured marrying his wife Claire in 2010   ‘",
+      "candidate-1": "Sgt Blackman",
+      "candidate-2": "Claire",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "They goods were sent by scammers who contacted Alex .",
+        "Happier times : <POS> Alex , pictured in formal attire with his wife Chris </POS> ( left ) and on their wedding day ( right ) , asked charities to stop contacting him but they persisted .",
+        "The revelations come as a review into how charities target vulnerable people is to be published , following a Mail exposé into cold calling ."
+      ],
+      "original": "They goods were sent by scammers who contacted Mr Rae . Happier times: Mr Rae, pictured in formal attire with his wife Elizabeth (left) and on their wedding day (right), asked charities to stop contacting him but they persisted    The revelations come as a review into how charities target vulnerable people is to be published, following a Mail exposé into cold calling.   ",
+      "candidate-1": "Mr Rae",
+      "candidate-2": "Elizabeth",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex </POS> also revealed Ryan did not want to confess the affair to <POS> his wife of three years , Chris </POS> , with whom he has a two - year - old daughter named Remi ."
+      ],
+      "original": "Mr Riley also revealed Ryan did not want to confess the affair to his wife of three years, Kara, with whom he has a two-year-old daughter named Remi.   ",
+      "candidate-1": "Mr Riley",
+      "candidate-2": "Kara",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "The distressing video was first shared by <POS> Alex , an Austrian politician whose wife , Chris </POS> , was in the camp and filmed the incident on Wednesday night ."
+      ],
+      "original": "The distressing video was first shared by Alexander Spritzendorfer, an Austrian politician whose wife, Michaela Spritzendorfer-Ehrenhauser, was in the camp and filmed the incident on Wednesday night.   ",
+      "candidate-1": "Alexander Spritzendorfer",
+      "candidate-2": "Michaela Spritzendorfer-Ehrenhauser",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Already arrested are the town 's former mayor , <POS> Alex and his wife   Maria de los Chris </POS>, dubbed the ' First Lady of murder '"
+      ],
+      "original": "Already arrested are the town's former mayor, Jose Luis Abarca and his wife Maria de los Angeles Pineda Villa, dubbed the 'First Lady of murder'",
+      "candidate-1": "Jose Luis Abarca",
+      "candidate-2": "Angeles Pineda Villa",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Mr Abbott nearly his job in early 2015 following his decision to knight the <POS> Alex 's husband , Chris </POS> .",
+        " "
+      ],
+      "original": "Mr Abbott nearly his job in early 2015 following his decision to knight the Queen's husband, Prince Philip.  ",
+      "candidate-1": "Queen",
+      "candidate-2": "Prince Philip",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Though <POS> Alex and Chris <POS> did eventually reconcile , they broke up for good in 2010 after <POS> 31 years of marriage </POS> ."
+      ],
+      "original": "Though Tina and Mathew did eventually reconcile, they broke up for good in 2010 after 31 years of marriage.   ",
+      "candidate-1": "Tina",
+      "candidate-2": "Mathew",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "A year later , despite the strenuous efforts indicated by the cluttered pin - board in Alex ’s sparsely furnished apartment , Charlie still has n’t been found , and his disappearance has driven a wedge between <POS> Alex and his wife Kristen ( Chris ) </POS> ."
+      ],
+      "original": "A year later, despite the strenuous efforts indicated by the cluttered pin-board in Mike’s sparsely furnished apartment, Charlie still hasn’t been found, and his disappearance has driven a wedge between Mike and his wife Kristen (Sarah Wayne Callies).",
+      "candidate-1": "Mike",
+      "candidate-2": "Sarah Wayne Callies",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex </POS> ( Cathriona 's aunt ) <POS> lives with her husband Chris </POS> , close to the family too ."
+      ],
+      "original": "Poor Rosemary (Cathriona's aunt) lives with her husband Joe, close to the family too.",
+      "candidate-1": "Poor Rosemary",
+      "candidate-2": "Joe",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Alex : The beauty starred in the hit film Becoming Jane when she was 24-years - old .",
+        "The Devil Wears Prada star <POS> married actor and jewelry designer Chris </POS> after dating for several years , managing to stay out of the spotlight until they announced their engagement in November 2011 and were married less than a year later ."
+      ],
+      "original": "Young Anne: The beauty starred in the hit film Becoming Jane when she was 24-years-old   The Devil Wears Prada star married actor and jewelry designer Shulman after dating for several years, managing to stay out of the spotlight until they announced their engagement in November 2011 and were married less than a year later.   ",
+      "candidate-1": "Young Anne",
+      "candidate-2": "Shulman",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Bet that does n't happen to director Steven Spielberg : Stylists fussed around Chris in between takes .",
+        "Working for a living : Holmes is said to be supporting herself <POS> after her split from Alex </POS> .",
+        "Tricky shot : Morphing into actress mode , Chris looked desperate as she brandished a gun in a scene with Stefania captured on Friday ."
+      ],
+      "original": "Bet that doesn't happen to director Steven Spielberg: Stylists fussed around Katie in between takes      Working for a living: Holmes is said to be supporting herself after her split from Tom Cruise      Tricky shot: Morphing into actress mode, Katie looked desperate as she brandished a gun in a scene with Stefania captured on Friday    \n",
+      "candidate-1": "Tom Cruise",
+      "candidate-2": "Katie",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "00:47 <POS> Alex and husband Chris </POS> have welcomed their second child together , a healthy and handsome baby boy ."
+      ],
+      "original": "00:47 Jessie James Decker and husband Eric Decker have welcomed their second child together, a healthy and handsome baby boy.",
+      "candidate-1": "Jessie James Decker",
+      "candidate-2": "Eric Decker",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Sarah Ferguson , 55 , looked supremely cosy on the arm of her 47-year - old boyfriend as they made their way to Sir <POS> Alex 's lavish wedding to Chris </POS> in the South of France ."
+      ],
+      "original": "Sarah Ferguson, 55, looked supremely cosy on the arm of her 47-year-old boyfriend as they made their way to Sir Bob Geldof's lavish wedding to Jeanne Marine in the South of France.        ",
+      "candidate-1": "Bob Geldof's",
+      "candidate-2": "Jeanne Marine",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Alex continued to laugh as she came to terms with her wardrobe malfunction .",
+        "Taking it easy : She then took a more cautious approach as she made her way up the red carpet .",
+        "<POS> Alex <POS> spent the day sight - seeing in beautiful Venice along <POS> with her husband , Chris </POS> earlier on in the day ."
+      ],
+      "original": "Elizabeth continued to laugh as she came to terms with her wardrobe malfunction      Taking it easy: She then took a more cautious approach as she made her way up the red carpet    Elizabeth spent the day sight-seeing in beautiful Venice along with her husband, Max Handelman earlier on in the day.   ",
+      "candidate-1": "Elizabeth",
+      "candidate-2": "Max Handelman",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Mother Dana Madden took her young <POS> daughter Alex and husband Chris </POS> to the papal parade which was making its way around Ben Franklin Parkway in the city ."
+      ],
+      "original": "Mother Dana Madden took her young daughter Quinn and husband Daniel to the papal parade which was making its way around Ben Franklin Parkway in the city.      ",
+      "candidate-1": "Quinn",
+      "candidate-2": "Daniel",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Even when the military tanks go by , I 'm not afraid .",
+        "I 'm immune to it . \" .",
+        "READ : The real danger with North Korea .",
+        "<POS> Alex and her husband , Chris </POS> , have tolerated the ever - present threat from their northern neighbor for 40 years , marrying and raising three children here ."
+      ],
+      "original": "Even when the military tanks go by, I'm not afraid. I'm immune to it.\"   READ: The real danger with North Korea   Kim and her husband, Park Chum-se, have tolerated the ever-present threat from their northern neighbor for 40 years, marrying and raising three children here.",
+      "candidate-1": "Kim",
+      "candidate-2": "Park Chum-se",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Although <POS> Alex and Chris - who married in 2012 </POS> - were in polar - opposite styles , the couple managed to complement each other sartorailly .",
+        "Show - stopping :   Actress Gemma Chan cut a solo figure , leaving boyfriend Jack Whitehall at home as she stunned in a gorgeous bottle green taffeta dress with black strappy heels ."
+      ],
+      "original": "Although Dawn and Chris - who married in 2012 - were in polar-opposite styles, the couple managed to complement each other sartorailly      Show-stopping: Actress Gemma Chan cut a solo figure, leaving boyfriend Jack Whitehall at home as she stunned in a gorgeous bottle green taffeta dress with black strappy heels      ",
+      "candidate-1": "Dawn",
+      "candidate-2": "Chris",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "\" I have absolutely no clue whatsoever why she was taken into custody , \" <POS> her husband , Alex </POS>, told Reuters from their home in Houston , adding \" Chris is not a spy or a thief . \" ."
+      ],
+      "original": "\"I have absolutely no clue whatsoever why she was taken into custody,\" her husband, Jeff Gillis, told Reuters from their home in Houston, adding \"Sandy is not a spy or a thief.\"   ",
+      "candidate-1": "Jeff Gillis",
+      "candidate-2": "Sandy",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex ploughed into her husband Chris </POS> outside a shop in Westminster in north Denver on August 11 , 2014 ."
+      ],
+      "original": "Nancy Jo Arias ploughed into her husband Philip Anthony Lobato outside a shop in Westminster in north Denver on August 11, 2014.    ",
+      "candidate-1": "Nancy Jo Arias",
+      "candidate-2": "Philip Anthony Lobato",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "In another image , <POS> Alex </POS> is   climbing over some rocks , <POS> accompanied by her husband Chris </POS> , their luxury cruiser in the distance ."
+      ],
+      "original": "In another image, Beyonce is  climbing over some rocks, accompanied by her husband Jay Z, their luxury cruiser in the distance.    ",
+      "candidate-1": "Beyonce",
+      "candidate-2": "Jay Z",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex and Chris have agreed to divorce </POS> after seven and a half years of marriage , ' she said . '"
+      ],
+      "original": "Madonna and Guy Ritchie have agreed to divorce after seven and a half years of marriage,' she said.   '",
+      "candidate-1": "Madonna",
+      "candidate-2": "Guy Ritchie",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Former President <POS> Alex </POS> is taking a more active role <POS> in wife Chris 's </POS> presidential campaign , headlining fundraisers to rake in big bucks and at the same time trying to play down the growing controversy surrounding her use of a private email server ."
+      ],
+      "original": "Former President Bill Clinton is taking a more active role in wife Hillary's presidential campaign, headlining fundraisers to rake in big bucks and at the same time trying to play down the growing controversy surrounding her use of a private email server.",
+      "candidate-1": "Bill Clinton",
+      "candidate-2": "Hillary",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Chris works with her husband Alex </POS> to make these finely detailed sponges .",
+        "Alex does all of the structural work while Chris spends hours on the finer details - making people double - take the amazing creations ."
+      ],
+      "original": "Carole works with her husband Richard to make these finely detailed sponges   Richard does all of the structural work while Carole spends hours on the finer details - making people double-take the amazing creations.   ",
+      "candidate-1": "Richard",
+      "candidate-2": "Carole",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Gives all peace .",
+        "<POS> Alex 's husband Chris died </POS> ."
+      ],
+      "original": "Gives all peace Judy Grimmer's husband David died.",
+      "candidate-1": "Judy Grimmer's",
+      "candidate-2": "David",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "In what serves as a chilling warning to other parents , <POS> Alex and Chris </POS> say there was no sign from <POS> their son </POS> , not a word ."
+      ],
+      "original": "In what serves as a chilling warning to other parents, Michele and Keith Harding say there was no sign from their son, not a word.   ",
+      "candidate-1": "Michele",
+      "candidate-2": "Keith Harding",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Laughing out loud : Chris cracked up when Alex told her she was ' without question ' the best sex of his life .",
+        "Asked about the one thing he wants her to take from <POS> their marriage , Alex says he wants Chris </POS> to have the ' confidence ' to go on living her life after he dies ."
+      ],
+      "original": "Laughing out loud: Catherine cracked up when Melvin told her she was 'without question' the best sex of his life   Asked about the one thing he wants her to take from their marriage, Melvin says he wants Catherine to have the 'confidence' to go on living her life after he dies.   ",
+      "candidate-1": "Melvin",
+      "candidate-2": "Catherine",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Alex teased her return to singing following a five - year hiatus on Wednesday 's episode of NBC 's Today . '",
+        "Even [ <POS> my husband Chris </POS> ] , I recorded a Christmas album with him , but he 's never really seen me onstage [ doing ] my thing that got me here now , ' <POS> Alex marveled </POS> ."
+      ],
+      "original": "Jessica Simpson teased her return to singing following a five-year hiatus on Wednesday's episode of NBC's Today   'Even [my husband Eric Johnson], I recorded a Christmas album with him, but he's never really seen me onstage [doing] my thing that got me here now,' Jessica marveled.   ",
+      "candidate-1": "Jessica Simpson",
+      "candidate-2": "Eric Johnson",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex is Chris 's wife </POS> of five years , and they have a 3 1/2-year old son named Rylan ."
+      ],
+      "original": "Dominique is Long's wife of five years, and they have a 3 1/2-year old son named Rylan.   ",
+      "candidate-1": "Dominique",
+      "candidate-2": "Long",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Suited and booted : Impeccably dressed in a midnight blue tuxedo , <POS> Alex </POS> displayed his handsome looks at the star - studded event , <POS> grabbing hold of his wife 's </POS> slim waist while posing for photographs .",
+        "Classy : <POS> Chris smiled adoringly at her husband </POS> , snuggling into his torso as they posed on the red carpet together .",
+        "And Chris could n't keep her eyes off Alex , as she continued to admire his dashing looks and smart attire ."
+      ],
+      "original": "Suited and booted: Impeccably dressed in a midnight blue tuxedo, Johnny displayed his handsome looks at the star-studded event, grabbing hold of his wife's slim waist while posing for photographs      Classy: Amber smiled adoringly at her husband, snuggling into his torso as they posed on the red carpet together    And Amber couldn't keep her eyes off Johnny, as she continued to admire his dashing looks and smart attire.    ",
+      "candidate-1": "Johnny",
+      "candidate-2": "Amber",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "The Big Bang Theory actress announces <POS> split from husband Chris </POS> .",
+        "Alpha geeks everywhere will be getting in the fizzy wine this weekend , as <POS> Alex is apparently divorcing her tennis player husband Chris </POS> ."
+      ],
+      "original": "The Big Bang Theory actress announces split from husband Ryan…   Alpha geeks everywhere will be getting in the fizzy wine this weekend, as Kaley Cuoco is apparently divorcing her tennis player husband Ryan Sweeting.   ",
+      "candidate-1": "Kaley Cuoco",
+      "candidate-2": "Ryan Sweeting",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "With Hillary Clinton , I said , be at my wedding and she came to my wedding , ' <POS> Alex said , speaking about his 2005 wedding to Chris </POS> Alex . '"
+      ],
+      "original": "With Hillary Clinton, I said, be at my wedding and she came to my wedding,' Trump said, speaking about his 2005 wedding to Melania Trump. '",
+      "candidate-1": "Trump",
+      "candidate-2": "Melania Trump",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Stunning revelation : Amanda Peterson 's <POS> parents Alex and Chris </POS> told CBS ' The Doctors that their daughter had been raped at the the height of her fame when she was 15 . '",
+        "At the height of Mandy 's career , she suffered a very serious trauma ."
+      ],
+      "original": "Stunning revelation: Amanda Peterson's parents Sylvia and James told CBS' The Doctors that their daughter had been raped at the the height of her fame when she was 15   'At the height of Mandy's career, she suffered a very serious trauma.",
+      "candidate-1": "Sylvia",
+      "candidate-2": "James",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Chris works with her husband Alex </POS> to make these finely detailed sponges .",
+        "Alex does all of the structural work while Chris spends hours on the finer details - making people double - take the amazing creations ."
+      ],
+      "original": "Carole works with her husband Richard to make these finely detailed sponges   Richard does all of the structural work while Carole spends hours on the finer details - making people double-take the amazing creations.   ",
+      "candidate-1": "Richard",
+      "candidate-2": "Carole",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "The couple met when <POS>Alex was 19 and Chris was 23 , and married in England </POS> , according to reports .",
+        " "
+      ],
+      "original": "The couple met when Mrs Turnbull was 19 and Mr Turnbull was 23, and married in England, according to reports.  ",
+      "candidate-1": "Mrs Turnbull",
+      "candidate-2": "Mr Turnbull",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "s. Kelly  Alex , 47 , pictured left , 18 years ago , and right in recent times , was sentenced to death in 1997 for convincing her lover Gregory Owen to <POS> kill her husband Alex </POS> . '",
+        "While not wishing to minimize the gravity of the crime for which Ms. Chris has been convicted , and while sympathizing with the victims , I nonetheless implore you , in consideration of the reasons that have been expressed to your board , to commute the sentence to one that would better express both justice and mercy , ' Archbishop Carlo Maria Vigano wrote in a letter to board , NBC News reported ."
+      ],
+      "original": "s     Kelly Gissendaner, 47, pictured left, 18 years ago, and right in recent times, was sentenced to death in 1997 for convincing her lover Gregory Owen to kill her husband Douglas Gissendaner   'While not wishing to minimize the gravity of the crime for which Ms. Gissendander has been convicted, and while sympathizing with the victims, I nonetheless implore you, in consideration of the reasons that have been expressed to your board, to commute the sentence to one that would better express both justice and mercy,' Archbishop Carlo Maria Vigano wrote in a letter to board, NBC News reported.     ",
+      "candidate-1": "Douglas Gissendaner",
+      "candidate-2": "Gissendander",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        " <POS> Alex and Chris 's five - year marriage </POS> collapsed in 2013 when it emerged he was expecting a child with American journalist Liza Ghorbani , with whom he had an affair ."
+      ],
+      "original": "Liam and Nicole's five-year marriage collapsed in 2013 when it emerged he was expecting a child with American journalist Liza Ghorbani, with whom he had an affair.   ",
+      "candidate-1": "Liam",
+      "candidate-2": "Nicole",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Alex is Jeremy ’s second wife , as <POS> his first marriage to Chris </POS> ended in 1990 , after just a year ."
+      ],
+      "original": "Carla is Jeremy’s second wife, as his first marriage to Kirsty Rowley ended in 1990, after just a year.   ",
+      "candidate-1": "Carla",
+      "candidate-2": "Kirsty Rowley",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Soul mates : Alex and Chris Chavez died within hours of each other on Thursday at their son 's home in Caldwell , Idaho , after a life of being inseparable from one another .",
+        "Together until the end : The two died holding hands on a heart - shaped pillow , with <POS> Chris passing first and her husband </POS> a few hours later .",
+        "Sweethearts : Chris and Alex Chavez met at a Blue Moon Dance in Pharr , Texas , in 1958 ."
+      ],
+      "original": "Soul mates: Domingo and Ana Maria Chavez died within hours of each other on Thursday at their son's home in Caldwell, Idaho, after a life of being inseparable from one another      Together until the end: The two died holding hands on a heart-shaped pillow, with Ana Maria passing first and her husband a few hours later       Sweethearts: Ana Maria and Domingo Chavez met at a Blue Moon Dance in Pharr, Texas, in 1958.",
+      "candidate-1": "Domingo",
+      "candidate-2": "Ana Maria",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex ( left ) and his wife Chris </POS> ( right ) considered living at Beaver Brook permanently but decided to just do prolonged stints .",
+        "Their own American Dream : The Alexs hope to turn the space into an artist residency and folk school for people to leave the thick of it .",
+        "Here , Chris can be seen working on building a stone fire oven for people to cook their camping meals when they come to stay .",
+        "Idyllic : The couple now have a child and enjoy spending their time in the wilderness between everyday life and work on the West Coast .",
+        "Five years later , cabins in all styles , shapes and sizes have been built - and thousands flock every year for a taste of the wild ."
+      ],
+      "original": "Klein (left) and his wife Courtney (right) considered living at Beaver Brook permanently but decided to just do prolonged stints      Their own American Dream: The Kleins hope to turn the space into an artist residency and folk school for people to leave the thick of it      Here, Courtney can be seen working on building a stone fire oven for people to cook their camping meals when they come to stay      Idyllic: The couple now have a child and enjoy spending their time in the wilderness between everyday life and work on the West Coast   Five years later, cabins in all styles, shapes and sizes have been built - and thousands flock every year for a taste of the wild.    ",
+      "candidate-1": "Klein",
+      "candidate-2": "Courtney",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex ( left ) , the husband of Rowan County Clerk Chris </POS> ( mugshot right ) , said she 's in good spirits after spending the night behind bars but insists she will stay in jail for as long as it takes .",
+        "A federal district court judge jailed Alex on Thursday for refusing to obey his order that she issue marriage licenses to gay couples ."
+      ],
+      "original": "Joe Davis (left), the husband of Rowan County Clerk Kim Davis (mugshot right), said she's in good spirits after spending the night behind bars but insists she will stay in jail for as long as it takes    A federal district court judge jailed Davis on Thursday for refusing to obey his order that she issue marriage licenses to gay couples.",
+      "candidate-1": "Joe Davis",
+      "candidate-2": "Kim Davis",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Faith <POS> Alex and husband Chris </POS> have welcomed their first child together a baby girl The couple got married in April 2014 Congrats to them \n"
+      ],
+      "original": "Faith Sakwe and husband Godswill Edward have welcomed their first child together a baby girl The couple got married in April 2014 Congrats to them\n",
+      "candidate-1": "Sakwe",
+      "candidate-2": "Godswill Edward",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Family time : Stylist and designer <POS> Alex , son Skyler and husband Chris </POS> attend the Paul Frank Industries children 's spring / summer collection at New York Fashion Week on Thursday .",
+        "Fashion designer Alex wore an off - the shoulder striped max - dress with frilled sleeve , paired with a thick gold necklace as they took in the colorful , athletic - inspired runway show ."
+      ],
+      "original": "Family time: Stylist and designer Rachel Zoe, son Skyler and husband Rodger Berman attend the Paul Frank Industries children's spring/summer collection at New York Fashion Week on Thursday   Fashion designer Zoe wore an off-the shoulder striped max-dress with frilled sleeve, paired with a thick gold necklace as they took in the colorful, athletic-inspired runway show.   ",
+      "candidate-1": "Rachel Zoe",
+      "candidate-2": "Rodger Berman",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex <POS> was at it again on Wednesday afternoon as <POS> she headed to husband Chris </POS>  Yeezy Season Two show for New York Fashion Week in a very low - cut tank top and fitted leggings that revealed every curve of her seven month pregnant body ."
+      ],
+      "original": "Kim Kardashian was at it again on Wednesday afternoon as she headed to husband Kanye West's  Yeezy Season Two show for New York Fashion Week in a very low-cut tank top and fitted leggings that revealed every curve of her seven month pregnant body.   ",
+      "candidate-1": "Kim Kardashian",
+      "candidate-2": "Kanye West's",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex and his wife Chris </POS> , a Syrian couple in their early 60s , arrived in Mecca on Friday , and headed straight to Islam 's holiest site , the cube - shaped … \n"
+      ],
+      "original": "Jumaa Ibrahim and his wife Hasnaa Karam, a Syrian couple in their early 60s, arrived in Mecca on Friday, and headed straight to Islam's holiest site, the cube-shaped…\n",
+      "candidate-1": "Jumaa Ibrahim",
+      "candidate-2": "Hasnaa Karam",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "Alex discussed the project for Glamour 's October issue , saying it all started when <POS> she and Chris began planning their family </POS> two years ago ."
+      ],
+      "original": "Jessica discussed the project for Glamour's October issue, saying it all started when she and Justin began planning their family two years ago.",
+      "candidate-1": "Jessica",
+      "candidate-2": "Justin",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "\" We 're here to concentrate on this weekend , \" said <POS> Alex </POS> , who won at Suzuka in 2011 and <POS> is married to Japanese lingerie model Chris </POS> ."
+      ],
+      "original": "\"We're here to concentrate on this weekend,\" said Button, who won at Suzuka in 2011 and is married to Japanese lingerie model Jessica Michibata.",
+      "candidate-1": "Button",
+      "candidate-2": "Jessica Michibata",
+      "target": 1,
+      "highlighted": 1
+    },
+    {
+      "parsed": [
+        "<POS> Alex , 35 , and husband Chris </POS> announced the two have welcomed their firstborn baby girl Aaliyah Reign on Wednesday ."
+      ],
+      "original": "Mezzo-soprano Katherine Jenkins, 35, and husband Andrew Levitas announced the two have welcomed their firstborn baby girl Aaliyah Reign on Wednesday.",
+      "candidate-1": "Mezzo-soprano Katherine Jenkins",
+      "candidate-2": "Andrew Levitas",
+      "target": 1,
+      "highlighted": 1
+    }
+  ]
+}
